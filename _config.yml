@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/seg.jpeg"
   bio    : "Graduate student in Information Management interested in Data Science"
   links:
-    #- label: "Website"
-     # icon: "fas fa-fw fa-link"
-     # url: "https://"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://linkedin.com/segentirfe"
    # - label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
      # url: "https://twitter.com/"
